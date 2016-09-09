@@ -1,4 +1,4 @@
-#include <math.h>hgh
+#include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <gsl/gsl_integration.h>
